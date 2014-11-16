@@ -246,7 +246,7 @@ for arch in x86_64; do
     run_once make_basefs
     run_once make_packages
              make_setup_mkinitcpio
-             make_customize_airootfs
+    run_once make_customize_airootfs
 done
 
 for arch in x86_64; do
