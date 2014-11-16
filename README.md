@@ -1,4 +1,4 @@
 arch-diskless
 =============
 
-diskless archiso-based build of archlinux
+Diskless archiso-based build of archlinux
